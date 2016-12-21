@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Johnathan Nichols' Online Resume</title>
+  <body style="background-color:#A5FEFC">
+</head>
+<body>
+  
+	<div class="top">
+	<section id="top">
+    
+		<h2 style="text-align:center;">Johnathan Nichols</h2>
+    
+		<p style="text-align:center;">1020 W. Medicine Lake Dr. Apt 320 
+			<br>Plymouth, MN, 55441 
+			<br>Cell #: 916-743-6397
+			<br>JohnathanNichols@ymail.com
+		</p>
+		<br>
+		<br>
+		<br>
+	
+	</section>
+	</div>
+  
+  
+	<div class="nav" style="text-align:center;">
+  
+		<ul style="list-style: none;">
+			<li><a href="#summary">Summary</a></li>
+			<li><a href="#experience">Experience</a></li>
+		</ul>
+    
+	</div>
+  
+  
+	<div class="Summary">
+  
+	<section id="summary"></section>
+    
+		<h3 style="text-align:center;">Summary</h3>
+	
+		<p style="text-align:center;">
+			Very Flexible, Fast learner, Hard working, Dedicated, Able to work well with others as well as solo.<br>Willing to go the extra mile, and a high attention to detail. Experienced in Fork Lift and CDL driving. 
+		</p>
+		<br>
+		<br>
+		<br>
+		
+	</div>
+  
+  
+	<div class="experience" style="text-align:center;">
+  
+	<section id="experience"></section>
+
+	<h3>Experience</h3>
+  
+	<h4>CoreMark Oct 2016 - Present</h4>
+		<p>
+			Full Case Picker<br>Plymouth, MN
+		</p>
+	
+		<ul style="list-style: none;">
+			<li>Fill orders as requested by the client</li>
+			<li>Quality check product as it is prepared to be shipped</li>
+			<li>Maintain a clean and safe product line</li>
+		</ul>
+		<br>
+		<br>
+  
+	<h4>All Star Home Healthcare Jan 2016 – Oct 2016</h4>
+		<p>
+			PCA<br>Anoka, MN
+		</p>
+		
+		<ul style="list-style: none;">
+			<li>Provide care for the client as they wish within reason</li>
+			<li>Run errands and do chores with the client as they wish</li>
+			<li>Report any signs of abuse or neglect</li>
+		</ul>
+		<br>
+		<br>
+  
+	<h4>First Student Oct 2015 – July 2016</h4>
+		<p>
+			Bus Driver<br>Minneapolis, MN
+		</p>
+  
+		<ul style="list-style: none;">
+			<li>Pre-trip the School Bus I am to drive, ensuring everything is working and safe</li>
+			<li>Pick up and Drop off the children in a safe and timely manner</li>	
+			<li>Post-trip the School Bus ensuring nothing was damaged during the drive and no child was left behind</li>
+		</ul>
+		<br>
+		<br>
+		<br>
+  
+	</div>
+  
+  
+</body>
+</html>
